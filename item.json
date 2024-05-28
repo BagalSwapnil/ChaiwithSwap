@@ -1,0 +1,86 @@
+[
+    {
+        "image":"radhe2/25.jpeg",
+        "title":"Tandoori Chai",
+        "category":"Chai",
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$1.99"
+    },
+    {
+        "image":"radhe2/17.jpeg",
+        "title":"Kadak Chai",
+        "category":"Chai",
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$2.99"
+    },
+    {
+        "image":"radhe2/18.jpg",
+        "title":"Adrak Chai",
+        "category":"Chai",
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$3.17"
+    },
+    {
+        "image":"radhe2/19.jpeg",
+        "title":"Suleimani Chai",
+        "category":"Chai",
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$2.83"
+    },
+    {
+        "image":"radhe2/20.jpeg",
+        "title":"Noon Chai",
+        "category":"Chai",
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$2.88"
+    },
+    {
+        "image":"radhe2/43.jpg",
+        "title":"Aloo Sev",
+        "category":"Namkeens",
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$1.59"
+    },
+    {
+        "image":"radhe2/41.jpg",
+        "title":"maska pav",
+        "category":"Maska Paav",
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$1.99"
+    },
+    {
+        "image":"radhe2/48.jpg",
+        "title":"butter maska pav",
+        "category":"Maska Paav",
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$2.99"
+    },
+    {
+        "image":"radhe2/49.jpg",
+        "title":"Sing Bhujia",
+        "category":"Namkeens",
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$2.50"
+    },
+    {
+        "image":"radhe2/45.jpg",
+        "title":"Chana Dal",
+       "category":"Namkeens",
+       "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$1.00"
+    },
+    {
+        "image":"radhe2/46.jpg",
+        "title":"Sprite",
+        "category":"Cold Drink",
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$1.75"
+    },
+    {
+        "image":"radhe2/47.jpg",
+        "title":"Thums Up",
+        "category":"Cold Drink",
+        "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+        "price":"$3.00"
+    }
+]
